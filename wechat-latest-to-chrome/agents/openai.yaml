@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat 最新文章转 Chrome"
+  short_description: "定位公众号最新非置顶文章并打开到 Chrome"
+  default_prompt: "使用 $wechat-latest-to-chrome，定位指定公众号最新的非置顶文章并在 Chrome 中打开。"
